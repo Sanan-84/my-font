@@ -8,7 +8,7 @@ You can add the package to your project using npm package manager.
 ```bash
 npm install @webservis/my-font
 ```
-##Usage
+## Usage
 
 First, import the my-font package in your CSS file:
 ```css
@@ -32,10 +32,10 @@ To animate the icons, you can use the mf-spin class:
 
 For more usage examples and a list of supported icons, please visit the Documentation page.
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, please visit the GitHub repository and submit pull requests. We welcome any contributions.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 This README file provides basic usage instructions for the `my-font` icon font package, including installation, usage examples, contributing guidelines, and licensing information. Feel free to customize the README file according to your project's requirements.
