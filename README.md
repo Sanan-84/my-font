@@ -37,7 +37,3 @@ If you would like to contribute to this project, please visit the GitHub reposit
 
 ## License
 This project is licensed under the MIT License.
-
-This README file provides basic usage instructions for the `my-font` icon font package, including installation, usage examples, contributing guidelines, and licensing information. Feel free to customize the README file according to your project's requirements.
-
-Note: This is just an example. It is recommended to modify the README file based on your project's specific needs and details.
