@@ -1,0 +1,25 @@
+{
+  "name": "@webservis/my-font",
+  "version": "1.0.1",
+  "description": "MyFont is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators. Start for Free Get More with Pro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanan-84/my-font.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "font",
+    "icons"
+  ],
+  "author": "Sanan Mammadow / WebServis.az",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanan-84/my-font/issues"
+  },
+  "homepage": "https://github.com/Sanan-84/my-font#readme"
+}
